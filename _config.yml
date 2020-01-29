@@ -9,11 +9,12 @@ name: Liulan Zheng
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: Student in CSci 395.86 in Hunter College, Spring 2020
+description: I major in Computer Science and minor in Mathematics and Economics.  Right now I'm an Undergraduate Teaching Assistance 
+for CSCI127 (Introduction to Computer Science) in Hunter College for Spring 2020.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
+avatar: 
 
 
 # CUSTOMIZE
@@ -24,12 +25,12 @@ avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: zhengliulan@gmail.com
   facebook:
   flickr:
-  github:    hunter-college-ossd-spr-2020
+  github: “https://github.com/liulanz”
   instagram:
-  linkedin:
+  linkedin: ”https://www.linkedin.com/in/liulanzheng/“
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -43,7 +44,7 @@ footer-links:
 # name of your own repository, which must be of the form, "your-username-weekly"
 # where "your-username" is your GitHub username.
 
-url: "https://hunter-college-ossd-spr-2020.github.io/weekly" 
+url: "https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly" 
 
 # CUSTOMIZE
 # The baseurl is used by Jekyll as a relative repository name.
