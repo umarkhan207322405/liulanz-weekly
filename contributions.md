@@ -21,7 +21,7 @@ following the same syntax.
 
 
 
-| Week #       | Contribution (Link)  | Type  | Description |
+| Week #       | Contribution (Link)  | Type  | Description                                      |
 |---|:---|:---|:---|
 |  1   | [link to contribution]("https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-02-week01.md")    | Blog Edit    |   I wrote a blog on why did I choose to take a course in open source software  |
 |     |     |     |      |
