@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description                                      |
 |---|:---|:---|:---|
-|  1   | [Link to Blog 1](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-02-week01.md)    | Blog Edit    |   I wrote a blog on why did I choose to take a course in open source software  |
-|  2   | [Link to Blog 2](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-09-week02.md)    | Blog Edit   |    I wrote a blog on the benefits of contributing to an open source project  |
+|  1   | [Link to Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-02-week01.md)    | Blog Edit    |   I wrote a blog on why did I choose to take a course in open source software  |
+|  2   | [Link to Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-09-week02.md)    | Blog Edit   |    I wrote a blog on the benefits of contributing to an open source project  |
 |     |     |     |      |
