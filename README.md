@@ -1,4 +1,5 @@
 
 > This repository belongs to Liulan Zheng and contains weekly blogs written by Liulan Zheng
 > for a course in Open Source software development.
-Link to Liulan's weekly blog: "https://hunter-college-ossd-spr-2020.github.io/liulanz-weekly"
+
+> [Liulan's weekly blog](https://hunter-college-ossd-spr-2020.github.io/liulanz-weekly)
