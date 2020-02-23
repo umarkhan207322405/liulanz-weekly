@@ -32,7 +32,7 @@ following the same syntax.
 |     |     |     |      |
 |  3   | [Link to Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-16-week03.md)    | Blog Edit  |    I wrote a blog on my skills and my interests |
 |     |     |     |      |
-|  4   | [Link to Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-16-week04.md)    | Blog Edit  |    I wrote a blog on my thought process on searching for a right open source project|
+|  4   | [Link to Contribution](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/blob/gh-pages/_posts/2020-02-16-week04..md)    | Blog Edit  |    I wrote a blog on my thought process on searching for a right open source project|
 |     |     |     |      |
 
 
