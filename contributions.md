@@ -35,3 +35,5 @@ following the same syntax.
 |     |     |     |      |
 |  5   | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/caitlinselca-weekly/pulls)    | Blog Edit |    I edited a classmate's weekly blog by separating the title and paragraphs on different line. Made her [blog](https://hunter-college-ossd-spr-2020.github.io/caitlinselca-weekly/) looks consistent.|
 |     |     |     |      |
+|  7   | [Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Fuzhou&diff=prev&oldid=945237192)    | Wikipedia Edit |    I added an image of the platform of Fuzhou Railway Station under the Metro section
+|     |     |     |      |
