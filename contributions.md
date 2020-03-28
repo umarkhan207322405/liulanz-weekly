@@ -33,4 +33,7 @@ following the same syntax.
 |  8   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Xiao_Zhan&oldid=946476858)    | Wikipedia Edit |   Added the release date column under television series and filled in the dates based on [the Chinese edition of Wikipedia](https://zh.wikipedia.org/wiki/%E8%82%96%E6%88%B0)
 |  8   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Huawei&oldid=946479052)    | Wikipedia Edit |    Inserted an image of Huawei Mate 20 Pro (Mainland China version) black from Wikimedia Commons
 |  9   | [Next.js Contribution](https://github.com/zeit/next.js/pull/11434)    | Project |    Pointed out the label and the link doesn't match in README.md
+|  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Taobao&oldid=947857589)    | Wikipedia Edit |    Inserted an image of AliExpress from Wikimedia Commons
+|  9   | [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Guinea-Pig.png.jpg&oldid=407710278)    | Wikimedia Commons |    Uploaded a photo of my guinea pig 
+|  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Hello_Kitty&oldid=947863197)    | Wikipedia Edit |   Inserted an image of Louis vuiton hello kitty mini cooper from Wikimedia Commons
 
