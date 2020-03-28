@@ -32,3 +32,5 @@ following the same syntax.
 |  7   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Fuzhou&diff=prev&oldid=945237192)    | Wikipedia Edit |   Inserted an image of the platform of Fuzhou Railway Station under the Metro section
 |  8   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Xiao_Zhan&oldid=946476858)    | Wikipedia Edit |   Added the release date column under television series and filled in the dates based on [the Chinese edition of Wikipedia](https://zh.wikipedia.org/wiki/%E8%82%96%E6%88%B0)
 |  8   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Huawei&oldid=946479052)    | Wikipedia Edit |    Inserted an image of Huawei Mate 20 Pro (Mainland China version) black from Wikimedia Commons
+|  9   | [Next.js Contribution](https://github.com/zeit/next.js/pull/11434)    | Project |    Pointed out the label and the link doesn't match in README.md
+
